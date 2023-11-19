@@ -1,0 +1,29 @@
+Quel instrument est souvent associe au jazz?|Saxophone,Trompette,Clarinette|0 
+Quel genre musical a ete popularise par Elvis Presley dans les annees 1950?|Jazz,Rock and Roll,Blues|1 
+Quel compositeur autrichien est connu pour ses symphonies classiques?|Wolfgang Amadeus Mozart,Ludwig van Beethoven,Johann Sebastian Bach|0 
+Quelle chanteuse est surnommee "Queen of Pop"?|Beyonce,Madonna,Taylor Swift|1 
+Quel instrument est joue par Yo-Yo Ma, un celebre violoncelliste?|Violon,Piano,Violoncelle|2 
+Quel groupe de rock britannique est celebre pour ses chansons comme "Stairway to Heaven"?|The Beatles,Queen,Led Zeppelin|2 
+Quel est l'instrument principal dans un orchestre pour jouer des melodies?|Flute,Harpe,Clarinette|0 
+Quelle chanson a ete chantee par Michael Jackson et est devenue l'album le plus vendu de tous les temps?|Thriller,Billie Jean,Beat It|0 
+Quel est le genre musical principal du groupe Nirvana?|Rock alternatif,Heavy metal,Pop|0 
+Quel artiste est connu pour son jeu de guitare rapide et virtuose?|Jimi Hendrix,Eric Clapton,Joe Satriani|2 
+Quel instrument est utilise pour produire des basses frequences dans une orchestration musicale?|Basse electrique,Contrebasse,Tuba|0 
+Quelle est la danse traditionnelle associee a la musique irlandaise?|Salsa,Jig,Waltz|1 
+Quel compositeur russe est celebre pour ses ballets tels que "Le Lac des cygnes"?|Dmitri Chostakovitch,Igor Stravinsky,Piotr Ilitch Tchaikovski|2 
+Quel est le nom du chanteur principal du groupe Queen?|Freddie Mercury,David Bowie,Elton John|0 
+Quel style musical a emerge dans les quartiers defavorises de New York dans les annees 1970?|Hip-hop,Rap,Reggae|0 
+Quelle chanteuse est surnommee "The Voice" et etait une coach dans The Voice?|Adele,Whitney Houston,Christina Aguilera|1 
+Quel instrument est generalement associe a la musique country?|Banjo,Mandoline,Guitare acoustique|2 
+Quel compositeur a cree la Symphonie fantastique et La Damnation de Faust?|Hector Berlioz,Claude Debussy,Maurice Ravel|0 
+Quel groupe a sorti l'album "The Dark Side of the Moon"?|The Rolling Stones,The Beatles,Pink Floyd|2 
+Quel est le genre musical principal du groupe ABBA?|Pop,Rock,Disco|0 
+Quelle chanson a ete interpretee par Frank Sinatra et est devenue un classique intemporel?|My Way,New York,New York,Strangers in the Night|1 
+Quel est l'instrument principal dans la musique traditionnelle japonaise?|Koto,Shakuhachi,Taiko|0 
+Quel artiste est connu pour son role de guitariste principal dans le groupe Queen?|Jimmy Page,Brian May,Eddie Van Halen|1 
+Quelle est la forme musicale dans laquelle un theme est presente et developpe de maniere variee?|Sonate,Rhapsodie,Symphonie|0 
+Quel instrument est utilise pour creer des effets sonores dans un orchestre, tels que le tonnerre?|Triangle,Trombone,Timpani|2 
+Quelle danse caribeenne est associee a la musique reggae?|Salsa,Calypso,Skank|2 
+Quelle artiste a remporte le prix Nobel de litterature en 2016 pour ses paroles de chansons?|Bob Dylan,Paul McCartney,Johnny Cash|0 
+Quel est le genre musical principal du groupe AC/DC?|Heavy metal,Rock classique,Hard rock|2 
+Quelle est la danse traditionnelle du tango associee a la musique argentine?|Samba,Tango,Flamenco|1

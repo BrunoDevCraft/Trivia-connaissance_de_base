@@ -1,0 +1,29 @@
+Quel empereur romain a construit le Colisee?|Auguste,Neron,Trajan|1 
+En quelle annee Christophe Colomb a-t-il decouvert l'Amerique?|1492,1510,1601|0 
+Qui etait le roi de France pendant la Revolution francaise?|Louis XIV,Louis XVI,Napoleon|1 
+Quelle bataille a mis fin aux guerres napoleoniennes?|Bataille de Waterloo,Bataille d'Austerlitz,Bataille de Leipzig|0 
+Quel evenement a marque le debut de la Premiere Guerre mondiale?|Assassinat de l'archiduc Francois-Ferdinand,Bataille de la Somme,Attaque de Pearl Harbor|0 
+Quel empereur a etabli le Code Justinien a Byzance?|Constantin Ier,Justinien Ier,Auguste|1 
+Quelle dynastie a regne sur la Chine pendant la periode de la dynastie Tang?|Han,Tang,Ming|1 
+Quelle etait la capitale de l'Empire inca?|Cuzco,Machu Picchu,Lima|0 
+Quel explorateur portugais a ouvert la route maritime vers l'Inde?|Ferdinand Magellan,Vasco de Gama,Christophe Colomb|1 
+Quel evenement a marque la fin de la guerre froide?|Chute du mur de Berlin,Printemps de Prague,Accords d'Helsinki|0 
+Quel roi d'Angleterre a signe la Magna Carta en 1215?|Richard Coeur de Lion,John Lackland,Edouard III|1 
+Quelle reine d'Egypte est connue pour sa liaison avec Marc Antoine et Jules Cesar?|Cleopatre,Nefertiti,Hatshepsout|0 
+Quel evenement a declenche la Premiere Guerre mondiale?|Assassinat de l'archiduc Francois-Ferdinand,Attaque de Pearl Harbor,Chute du mur de Berlin|0 
+Qui etait le fondateur de l'Empire mongol au XIIIe siecle?|Genghis Khan,Kubilai Khan,Tamerlan|0 
+Quelle etait la capitale de l'Empire byzantin?|Rome,Constantinople,Athenes|1 
+Quelle femme politique a ete la premiere femme Premier ministre du Royaume-Uni?|Angela Merkel,Margaret Thatcher,Theresa May|1 
+Quelle ville etait le centre de la Renaissance au XVe siecle?|Florence,Paris,Londres|0 
+Quel empereur a brule Rome et perseecute les chretiens au Ier siecle?|Neron,Caligula,Commodes|0 
+Quelle bataille a marque la fin de la guerre de Cent Ans entre l'Angleterre et la France?|Bataille d'Azincourt,Bataille de Castillon,Bataille de Crecy|1 
+Quel dirigeant sovietique a lance la politique de la perestroika?|Leonid Brejnev,Mikhail Gorbatchev,Joseph Staline|1 
+Quel evenement a marque le debut de la Revolution russe en 1917?|Assassinat de la famille imperiale,Prise du palais d'Hiver,Manifestations de fevrier|2 
+Quel philosophe grec a ete le professeur d'Alexandre le Grand?|Socrate,Aristote,Platon|1 
+Quel empereur romain a adopte le christianisme comme religion d'Etat?|Neron,Constantin Ier,Auguste|1 
+Quelle guerre a oppose les Etats-Unis et le Mexique dans les annees 1840?|Guerre de Secession,Guerre hispano-americaine,Guerre americano-mexicaine|2 
+Quel empereur francais a ete exile sur l'ile d'Elbe apres sa premiere abdication?|Louis-Philippe,Napoleon III,Napoleon Bonaparte|2 
+Quelle bataille a marque la fin de la guerre de Secession aux Etats-Unis?|Bataille de Gettysburg,Bataille d'Antietam,Bataille de Vicksburg|0 
+Quel evenement a marque le debut de la Revolution industrielle?|Invention de la machine a vapeur,Invention de la roue,Invention de l'imprimerie|0 
+Quel roi de France a ete guillotine pendant la Revolution francaise?|Louis XV,Louis XVI,Louis XIV|1 
+Quel explorateur italien a decouvert l'Amerique en 1492 pour le compte de l'Espagne?|Marco Polo,Christophe Colomb,Amerigo Vespucci|1

@@ -1,0 +1,20 @@
+Quel langage de programmation est souvent utilise pour le developpement web?|Python,Java,JavaScript|2
+Quel acronyme designe la technologie sans fil permettant d'echanger des donnees sur de courtes distances?|NFC,DSL,USB|0
+Quelle entreprise a developpe le systeme d'exploitation Windows?|Apple,Microsoft,Linux|1
+Quel est le principal langage de balisage utilise pour creer des pages web?|HTML,CSS,PHP|0
+Quel protocole est utilise pour securiser les transferts de donnees sur Internet?|FTP,HTTPS,SMTP|1
+Quelle technologie permet de stocker des donnees de maniere permanente sur une blockchain?|Bitcoin,Ethereum,Ripple|1
+Quel est le nom du celebre fondateur de Microsoft?|Bill Gates,Mark Zuckerberg,Jeff Bezos|0
+Quel est le systeme d'exploitation utilise par les appareils iPhone?|Android,iOS,Windows|1
+Quel est le role principal du protocole TCP/IP sur Internet?|Transmission de fichiers,Gestion des adresses IP,Navigation web|1
+Quel langage de programmation est souvent utilise pour le developpement d'applications mobiles sur Android?|Swift,Kotlin,Java|2
+Quelle technologie de stockage remplace progressivement les disques durs traditionnels dans les ordinateurs?|SSD,HDD,USB|0
+Quel est le principal avantage de l'informatique en nuage (cloud computing)?|Securite accrue,Stockage local,Acces a distance aux ressources|2
+Quel est le principal navigateur web developpe par Google?|Firefox,Safari,Chrome|2
+Quel est le terme utilise pour decrire un programme malveillant qui se propage en se cachant dans d'autres programmes?|Spyware,Virus,Firewall|1
+Quelle norme sans fil est utilisee pour la connexion Wi-Fi?|3G,4G,802.11|2
+Quel est le langage de programmation largement utilise pour le traitement statistique et l'apprentissage automatique?|Java,Python,C++|1
+Quelle plateforme de medias sociaux limite les messages a 280 caracteres?|Facebook,Twitter,Instagram|1
+Quel est le terme utilise pour decrire la pratique de copier du code source d'un logiciel sans autorisation?|Copycatting,Plagiat,Debugging|1
+Quelle technologie permet la communication sans fil en champ proche entre des dispositifs compatibles?|Bluetooth,RFID,Infrarouge|0
+Quel est le langage de programmation utilise pour creer des applications iOS?|Java,Swift,C#|1

@@ -1,0 +1,25 @@
+Quel est le plus grand fleuve d'Amerique du Sud?|Amazonie,Parana,Nil|0 
+Quel pays est connu comme "le pays du soleil levant"?|Chine,Japon,Inde|1 
+Quelle est la plus haute montagne d'Afrique?|Mont Everest,Alpes,Kilimandjaro|2 
+Quel ocean entoure l'ile de Madagascar?|Ocean Atlantique,Ocean Indien,Ocean Pacifique|1 
+Dans quel continent se trouve le desert du Sahara?|Afrique,Asie,Amerique du Sud|0 
+Quelle est la capitale de l'Italie?|Barcelone,Paris,Rome|2 
+Quelle est la plus grande ile du monde?|Groenland,Nouvelle-Guinee,Borneo|0 
+Quel est le plus grand lac d'Amerique du Nord?|Lac Superieur,Lac Michigan,Lac Baikal|0 
+Quel est le pays situe a la pointe sud de l'Afrique?|Afrique du Sud,Mozambique,Namibie|0 
+Quelle est la chaine de montagnes qui traverse l'Amerique du Sud?|Andes,Alpes,Himalaya|0 
+Quelle est la capitale du Canada?|Toronto,Ottawa,Vancouver|1 
+Dans quel pays se trouve le Taj Mahal?|Inde,Chine,Japon|0 
+Quelle est la plus longue riviere du monde?|Amazone,Nil,Yangtse|0 
+Quel est le point le plus bas de la Terre?|Mer Morte,Vallee de la Mort,Fosse des Mariannes|0 
+Quel est le pays le plus petit du monde en termes de superficie?|Vatican,Monaco,Nauru|1 
+Quel est le plus grand archipel du monde?|Indonesie,Philippines,Japon|0 
+Dans quel ocean se trouve l'ile de la Reunion?|Ocean Pacifique,Ocean Atlantique,Ocean Indien|2 
+Quelle est la capitale de l'Australie?|Canberra,Sydney,Melbourne|0 
+Quel est le desert le plus sec du monde?|Atacama,Sahara,Gobi|0 
+Dans quel continent se trouve le pole Nord?|Antarctique,Europe,Arctique|2
+
+
+
+
+
