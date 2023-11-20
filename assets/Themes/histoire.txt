@@ -27,3 +27,33 @@ Quelle bataille a marque la fin de la guerre de Secession aux Etats-Unis?|Batail
 Quel evenement a marque le debut de la Revolution industrielle?|Invention de la machine a vapeur,Invention de la roue,Invention de l'imprimerie|0 
 Quel roi de France a ete guillotine pendant la Revolution francaise?|Louis XV,Louis XVI,Louis XIV|1 
 Quel explorateur italien a decouvert l'Amerique en 1492 pour le compte de l'Espagne?|Marco Polo,Christophe Colomb,Amerigo Vespucci|1
+
+Quel philosophe grec a fonde l'ecole de pensee stoicienne? | Socrate, Aristote, Zenon de Citium | 2
+Quelle reine d'Angleterre etait surnommee la "Reine vierge"? | Elisabeth Iere, Marie Stuart, Anne d'Angleterre | 0
+Quel empereur romain a construit le Mur d'Hadrien pour marquer la frontiere nord de l'Empire? | Nerva, Trajan, Hadrien | 2
+Quel evenement a marque le debut de la Revolution americaine en 1775? | Declaration d'independance, Boston Tea Party, Bataille de Lexington et Concord | 2
+Quel celebre empereur mongol a conquis un vaste empire au XIIIe siecle? | Genghis Khan, Kubilai Khan, Tamerlan | 0
+Quelle bataille a ete un tournant decisif pendant la guerre de Trente Ans en Europe? | Bataille de Rocroi, Bataille de Lutzen, Bataille de Breitenfeld | 1
+Quelle femme a joue un role cle dans la revolution haitienne, menant a l'independance d'Haiti? | Marie Laveau, Toussaint Louverture, Cecile Fatiman | 1
+Quel explorateur a mene la premiere circumnavigation de la Terre? | Ferdinand Magellan, James Cook, Hernan Cortes | 0
+Quel tsar de Russie a entrepris des reformes majeures au XIXe siecle, y compris l'emancipation des serfs? | Ivan le Terrible, Alexandre II, Nicolas II | 1
+Quel traite a mis fin a la Premiere Guerre mondiale en 1919? | Traite de Versailles, Traite de Trianon, Traite de Saint-Germain-en-Laye | 0
+Quel evenement a ete le catalyseur de la guerre hispano-americaine en 1898? | Naufrage du Maine, Bataille de San Juan Hill, Bataille de Santiago de Cuba | 0
+Quelle reine egyptienne a ete la derniere de la dynastie ptolemaique et est connue pour son suicide par aspic? | Cleopatre, Nefertiti, Hatshepsout | 0
+Quel grand empereur indien a regne au XVIIIe siecle et est connu pour ses reformes administratives et son soutien aux arts? | Aurangzeb, Akbar, Shah Jahan | 1
+Quelle bataille de la Premiere Guerre mondiale a ete marquee par l'utilisation extensive de tranchees? | Bataille de la Somme, Bataille de Verdun, Bataille de la Marne | 0
+Quel explorateur polonais a decouvert l'Alaska en 1643? | Jan Mayen, Semyon Dezhnyov, Vitus Bering | 2
+Quel empereur chinois est celebre pour la construction de la Grande Muraille de Chine? | Qin Shi Huang, Han Wudi, Tang Taizong | 0
+Quelle reine d'Angleterre a ete executee pendant la Revolution anglaise? | Elisabeth Iere, Mary Stuart, Anne Boleyn | 1
+Quel evenement a conduit a la fondation de l'Empire moghol en Inde au XVIe siecle? | Bataille de Panipat, Arrivee de Vasco de Gama, Construction du Taj Mahal | 0
+Quel empereur romain a ete assassine lors des ides de mars en 44 av. J.-C.? | Auguste, Neron, Julius Caesar | 2
+Quelle celebre bataille de la guerre civile americaine a ete le theatre de la celebre "Charge de la brigade legere"? | Bataille de Gettysburg, Bataille de Fredericksburg, Bataille d'Antietam | 1
+Quel tsar russe a introduit des reformes majeures en 1861, y compris l'emancipation des serfs? | Ivan le Terrible, Alexandre II, Nicolas II | 1
+Quel philosophe grec a fonde l'Academie a Athenes? | Socrate, Aristote, Platon | 2
+Quel evenement a marque le debut de la Revolution francaise en 1789? | Prise de la Bastille, Execution de Louis XVI, Emutes du pain | 0
+Quel empereur romain a construit le mur d'Hadrien a la frontiere nord de l'Empire? | Nerva, Trajan, Hadrien | 2
+Quelle femme celebre a joue un role important dans l'abolition de l'esclavage au Royaume-Uni au XIXe siecle? | Florence Nightingale, Queen Victoria, Harriet Beecher Stowe | 2
+Quel explorateur portugais a ete le premier a atteindre le cap de Bonne-Esperance en 1488? | Bartolomeu Dias, Vasco de Gama, Henry the Navigator | 0
+Quelle reine anglaise est connue pour avoir vaincu l'Invincible Armada espagnole en 1588? | Elisabeth Iere, Mary Stuart, Anne Boleyn | 0
+Quel evenement a marque la fin de la guerre de Secession aux Etats-Unis en 1865? | Assassinat de Lincoln, Bataille de Gettysburg, Appomattox Court House | 2
+Quel empereur romain est connu pour avoir incendie Rome en 64 ap. J.-C.? | Caligula, Neron, Commodes | 1
