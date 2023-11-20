@@ -18,7 +18,36 @@ Dans quel ocean se trouve l'ile de la Reunion?|Ocean Pacifique,Ocean Atlantique,
 Quelle est la capitale de l'Australie?|Canberra,Sydney,Melbourne|0 
 Quel est le desert le plus sec du monde?|Atacama,Sahara,Gobi|0 
 Dans quel continent se trouve le pole Nord?|Antarctique,Europe,Arctique|2
-
+Quel est le plus grand lac d'Asie ?|Lac Baikal,Lac de Garde,Lac Victoria|0
+Quelle est la capitale de la France ?|Londres,Berlin,Paris|2
+Dans quel pays se trouve la Grande Muraille ?|Japon,Chine,Inde|1
+Quel est le plus grand fleuve d'Europe ?|Danube,Volga,Thames|1
+Quelle est la capitale de l'Argentine ?|Buenos Aires,Rio de Janeiro,Mexico|0
+Quel est le plus haut sommet d'Amerique du Nord ?|Mont McKinley,Denali,Mount Elbert|1
+Dans quel ocean se trouve l'ile de Borneo ?|Ocean Indien,Ocean Atlantique,Ocean Pacifique|2
+Quel est le plus grand desert froid du monde ?|Antarctique,Arctique,Groenland|1
+Quelle est la capitale de l'Espagne ?|Barcelone,Madrid,Lisbonne|1
+Dans quel pays se trouve le canal de Panama ?|Costa Rica,Panama,Colombie|1
+Quelle est la plus grande ville d'Afrique ?|Le Caire,Le Cap,Lagos|2
+Quel est le point le plus eleve d'Amerique du Sud ?|Mont Aconcagua,Chimborazo,Cordillere des Andes|0
+Dans quel ocean se trouve l'ile de Java ?|Ocean Indien,Ocean Pacifique,Ocean Atlantique|1
+Quelle est la plus grande ile de la Mediterranee ?|Sicile,Corse,Crete|0
+Quel est le pays le plus peuple du monde ?|Chine,Inde,Etats-Unis|0
+Dans quel continent se trouve le desert de Gobi ?|Afrique,Asie,Oceanie|1
+Quelle est la capitale du Japon ?|Seoul,Tokyo,Pekin|1
+Quel est le plus long fleuve d'Asie ?|Yangtse,Indus,Gange|0
+Quel est le plus grand lac d'Afrique ?|Lac Tanganyika,Lac Victoria,Lac Malawi|1
+Dans quel pays se trouve la ville de Marrakech ?|Algerie,Maroc,Tunisie|1
+Quelle est la chaine de montagnes qui separe l'Europe de l'Asie ?|Alpes,Oural,Carpates|1
+Dans quel ocean se trouve l'ile de Paques ?|Ocean Atlantique,Ocean Indien,Ocean Pacifique|2
+Quel est le plus grand canyon du monde ?|Grand Canyon,Colca,Blyde River|0
+Quelle est la capitale de la Russie ?|Moscou,Saint-Petersbourg,Kiev|0
+Quel est le plus grand lac d'Amerique du Sud ?|Lac Titicaca,Lac Maracaibo,Lac Poope|1
+Dans quel pays se trouve le Kilimandjaro ?|Kenya,Tanzanie,Ouganda|1
+Quelle est la plus grande ile de l'ocean Indien ?|Sri Lanka,Maurice,Maldives|0
+Quel est le plus grand desert de sable du monde ?|Sahara,Karakoum,Arabie|0
+Dans quel continent se trouve le cap Horn ?|Amerique du Sud,Antarctique,Oceanie|0
+Quelle est la capitale de l'Indonesie ?|Bangkok,Jakarta,Manille|1
 
 
 
