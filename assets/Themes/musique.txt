@@ -14,7 +14,7 @@ Quel compositeur russe est celebre pour ses ballets tels que "Le Lac des cygnes"
 Quel est le nom du chanteur principal du groupe Queen?|Freddie Mercury,David Bowie,Elton John|0 
 Quel style musical a emerge dans les quartiers defavorises de New York dans les annees 1970?|Hip-hop,Rap,Reggae|0 
 Quelle chanteuse est surnommee "The Voice" et etait une coach dans The Voice?|Adele,Whitney Houston,Christina Aguilera|1 
-Quel instrument est generalement associe a la musique country?|Banjo,Mandoline,Guitare acoustique|2 
+Quel instrument est generalement associe a la musique country?|Banjo,Mandoline,Guitare acoustique|1 
 Quel compositeur a cree la Symphonie fantastique et La Damnation de Faust?|Hector Berlioz,Claude Debussy,Maurice Ravel|0 
 Quel groupe a sorti l'album "The Dark Side of the Moon"?|The Rolling Stones,The Beatles,Pink Floyd|2 
 Quel est le genre musical principal du groupe ABBA?|Pop,Rock,Disco|0 
