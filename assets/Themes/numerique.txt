@@ -28,7 +28,7 @@ Quelle est la norme de connexion pour les ports USB couramment utilisee aujourd'
 Quelle est la principale fonction du pare-feu (firewall) dans un reseau informatique?|Filtrer le trafic,Accelerer la connexion,Surveiller les cookies|0
 Quel est le langage de balisage utilise pour structurer le contenu des pages web de maniere semantique?|XML,HTML5,JSON|1
 Quelle technologie permet la transmission sans fil haute vitesse des donnees sur de courtes distances?|5G,Bluetooth,Wi-Fi 6|2
-Quel est le principal langage de programmation utilise pour le developpement d'applications dans l'ecosysteme Apple?|Swift,Objective-C,C#|1
+Quel est le principal langage de programmation utilise pour le developpement d'applications dans l'ecosysteme Apple?|Swift,Objective-C,C#|0
 Quelle est la technologie de stockage optique largement utilisee pour la lecture de films et de logiciels?|CD-ROM,DVD-ROM,Blu-ray|2
 Quel est le terme utilise pour decrire une faille de securite permettant l'injection de code malveillant?|Buffer overflow,Zero-day exploit,Cross-site scripting|1
 Quelle technologie de reseau sans fil est utilisee pour connecter des peripheriques sur de courtes distances?|Wi-Fi,Zigbee,3G|0
@@ -39,7 +39,7 @@ Quelle est la norme de cable reseau utilisee couramment pour les connexions Ethe
 Quel est le principal avantage de l'utilisation de la programmation orientee objet?|Reutilisation du code,Programmation lineaire,Efficacite des algorithmes|0
 Quelle est la technologie de stockage cloud proposee par Amazon?|Azure,Google Drive,Amazon S3|2
 Quel est le terme utilise pour decrire une attaque informatique qui vise a rendre un service indisponible?|Phishing,Deni de service (DDoS),Malware|1
-Quelle est la technologie de realite virtuelle developpee par Oculus?|HTC Vive,Oculus Rift,PlayStation VR|2
+Quelle est la technologie de realite virtuelle developpee par Oculus?|HTC Vive,Oculus Rift,PlayStation VR|1
 Quel est le langage de programmation utilise pour les calculs scientifiques et le traitement des donnees dans le domaine de l'apprentissage automatique?|R,Python,Julia|1
 Quelle est la principale difference entre HTTP et HTTPS?|Securite des donnees,Type de serveur,Port de connexion|0
 Quel est le terme utilise pour decrire le processus de conversion d'une adresse IP en un nom de domaine?|Encryption,Decryption,Resolution DNS|1
@@ -48,3 +48,4 @@ Quel est le langage de programmation principalement utilise pour les application
 Quelle est la technologie de reseau mobile de nouvelle generation offrant des vitesses de connexion plus elevees?|4G,5G,3G|2
 Quel est le langage de programmation utilise pour le developpement de scripts cote client dans les navigateurs web?|JavaScript,PHP,Python|0
 Quelle entreprise est connue pour son systeme d'exploitation mobile Android?|Apple,Google,Microsoft|1
+
