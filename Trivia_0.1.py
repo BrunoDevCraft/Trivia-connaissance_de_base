@@ -3,11 +3,18 @@ import pygame
 import sys
 import traceback
 import random
+from pathlib import Path
 
 pygame.init()
 WIDTH, HEIGHT = 800, 600
 win = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Trivia Game")
+
+# Utilisez Path pour obtenir le chemin absolu du dossier contenant le script
+script_path = Path(__file__).resolve().parent
+
+assets_path = Path(getattr(sys, '_MEIPASS', script_path)) / "assets"
+themes_path = assets_path / "themes"
 
 class PresentationScreen:
     def __init__(self, surface):
@@ -181,11 +188,14 @@ class TriviaGame:
         return lines
 
     def load_questions(self, selected_theme, nb_questions):
+        # Utilisez le chemin absolu pour accéder au fichier de questions
+        questions_file_path = themes_path / f"{selected_theme}.txt"
+        
         # Charge les questions depuis un fichier en fonction du thème sélectionné
         try:
-            print("Répertoire de travail actuel:", os.getcwd())
+            #print("Répertoire de travail actuel:", os.getcwd())
             questions = []
-            with open(os.path.join(os.path.dirname(__file__), "assets/Themes/", f"{selected_theme}.txt"), "r") as file:
+            with open(questions_file_path, "r") as file:
                 for line in file:
                     question_data = line.strip().split("|")
                     if len(question_data) == 3:
@@ -197,7 +207,7 @@ class TriviaGame:
             random.shuffle(questions)
             return questions[:nb_questions]
         except FileNotFoundError as e:
-            print("Erreur : fichier de questions introuvable.")
+            print(f"Erreur : fichier de questions introuvable ({questions_file_path})")
             traceback.print_exc()
             return []
         except Exception as e:
