@@ -7,7 +7,7 @@ Quelle est la capitale de l'Italie?|Barcelone,Paris,Rome|2
 Quelle est la plus grande ile du monde?|Groenland,Nouvelle-Guinee,Borneo|0 
 Quel est le plus grand lac d'Amerique du Nord?|Lac Superieur,Lac Michigan,Lac Baikal|0 
 Quel est le pays situe a la pointe sud de l'Afrique?|Afrique du Sud,Mozambique,Namibie|0 
-Quelle est la chaine de montagnes qui traverse l'Amerique du Sud?|Andes,Alpes,Himalaya|0 
+Quelle est la chaine de montagnes qui traverse l'Amerique du Sud?|la cordillère des Andes,Alpes,Himalaya|0 
 Quelle est la capitale du Canada?|Toronto,Ottawa,Vancouver|1 
 Dans quel pays se trouve le Taj Mahal?|Inde,Chine,Japon|0 
 Quelle est la plus longue riviere du monde?|Amazone,Nil,Yangtse|0 
@@ -18,18 +18,18 @@ Dans quel ocean se trouve l'ile de la Reunion?|Ocean Pacifique,Ocean Atlantique,
 Quelle est la capitale de l'Australie?|Canberra,Sydney,Melbourne|0 
 Quel est le desert le plus sec du monde?|Atacama,Sahara,Gobi|0 
 Dans quel continent se trouve le pole Nord?|Antarctique,Europe,Arctique|2
-Quel est le plus grand lac d'Asie ?|Lac Baikal,Lac de Garde,Lac Victoria|0
+Quel est le plus grand lac d'Asie ?|Lac Baikal,Lac de Garde,Mer Caspienne|2
 Quelle est la capitale de la France ?|Londres,Berlin,Paris|2
 Dans quel pays se trouve la Grande Muraille ?|Japon,Chine,Inde|1
 Quel est le plus grand fleuve d'Europe ?|Danube,Volga,Thames|1
 Quelle est la capitale de l'Argentine ?|Buenos Aires,Rio de Janeiro,Mexico|0
-Quel est le plus haut sommet d'Amerique du Nord ?|Mont McKinley,Denali,Mount Elbert|1
+Quel est le plus haut sommet d'Amerique du Nord ?|Mont McKinley,Denali,Mount Elbert|0
 Dans quel ocean se trouve l'ile de Borneo ?|Ocean Indien,Ocean Atlantique,Ocean Pacifique|2
 Quel est le plus grand desert froid du monde ?|Antarctique,Arctique,Groenland|0
 Quelle est la capitale de l'Espagne ?|Barcelone,Madrid,Lisbonne|1
 Dans quel pays se trouve le canal de Panama ?|Costa Rica,Panama,Colombie|1
-Quelle est la plus grande ville d'Afrique ?|Le Caire,Le Cap,Lagos|2
-Quel est le point le plus eleve d'Amerique du Sud ?|Mont Aconcagua,Chimborazo,Cordillere des Andes|1
+Quelle est la plus grande ville d'Afrique ?|Le Caire,Le Cap,Lagos|0
+Quel est le point le plus eleve d'Amerique du Sud ?|Mont Aconcagua,Chimborazo,Cordillere des Andes|0
 Dans quel ocean se trouve l'ile de Java ?|Ocean Indien,Ocean Pacifique,Ocean Atlantique|0
 Quelle est la plus grande ile de la Mediterranee ?|Sicile,Corse,Crete|0
 Quel est le pays le plus peuple du monde ?|Chine,Inde,Etats-Unis|0

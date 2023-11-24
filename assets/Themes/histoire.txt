@@ -16,14 +16,12 @@ Quelle femme politique a ete la premiere femme Premier ministre du Royaume-Uni?|
 Quelle ville etait le centre de la Renaissance au XVe siecle?|Florence,Paris,Londres|0 
 Quel empereur a brule Rome et perseecute les chretiens au Ier siecle?|Neron,Caligula,Commodes|0 
 Quelle bataille a marque la fin de la guerre de Cent Ans entre l'Angleterre et la France?|Bataille d'Azincourt,Bataille de Castillon,Bataille de Crecy|1 
-Quel dirigeant sovietique a lance la politique de la perestroika?|Leonid Brejnev,Mikhail Gorbatchev,Joseph Staline|1 
-Quel evenement a marque le debut de la Revolution russe en 1917?|Assassinat de la famille imperiale,Prise du palais d'Hiver,Manifestations de fevrier|1 
+Quel dirigeant sovietique a lance la politique de la perestroika?|Leonid Brejnev,Mikhail Gorbatchev,Joseph Staline|1
+Quel evenement a marque le debut de la Revolution russe en 1917?|Assassinat de la famille imperiale,Prise du palais d'Hiver,Manifestations de fevrier|2 
 Quel philosophe grec a ete le professeur d'Alexandre le Grand?|Socrate,Aristote,Platon|1 
 Quel empereur romain a adopte le christianisme comme religion d'Etat?|Neron,Constantin Ier,Auguste|1 
 Quelle guerre a oppose les Etats-Unis et le Mexique dans les annees 1840?|Guerre de Secession,Guerre hispano-americaine,Guerre americano-mexicaine|2 
-Quel empereur francais a ete exile sur l'ile d'Elbe apres sa premiere abdication?|Louis-Philippe,Napoleon III,Napoleon Bonaparte|2 
-Quelle bataille a marque la fin de la guerre de Secession aux Etats-Unis?|Bataille de Gettysburg,Bataille d'Antietam,Bataille de Vicksburg|0 
-Quel evenement a marque le debut de la Revolution industrielle?|Invention de la machine a vapeur,Invention de la roue,Invention de l'imprimerie|0 
+Quel empereur francais a ete exile sur l'ile d'Elbe apres sa premiere abdication?|Louis-Philippe,Napoleon III,Napoleon Bonaparte|2
 Quel roi de France a ete guillotine pendant la Revolution francaise?|Louis XV,Louis XVI,Louis XIV|1 
 Quel explorateur italien a decouvert l'Amerique en 1492 pour le compte de l'Espagne?|Marco Polo,Christophe Colomb,Amerigo Vespucci|1
 Quel philosophe grec a fonde l'ecole de pensee stoicienne? | Socrate, Aristote, Zenon de Citium | 2
@@ -40,12 +38,9 @@ Quel evenement a ete le catalyseur de la guerre hispano-americaine en 1898? | Na
 Quelle reine egyptienne a ete la derniere de la dynastie ptolemaique et est connue pour son suicide par aspic? | Cleopatre, Nefertiti, Hatshepsout | 0
 Quel grand empereur indien a regne au XVIIIe siecle et est connu pour ses reformes administratives et son soutien aux arts? | Aurangzeb, Akbar, Shah Jahan | 1
 Quelle bataille de la Premiere Guerre mondiale a ete marquee par l'utilisation extensive de tranchees? | Bataille de la Somme, Bataille de Verdun, Bataille de la Marne | 0
-Quel explorateur polonais a decouvert l'Alaska en 1643? | Jan Mayen, Semyon Dezhnyov, Vitus Bering | 2
+Quel explorateur polonais a decouvert l'Alaska en 1643? | Jan Mayen, Szymon Czechowicz, Vitus Bering | 2
 Quel empereur chinois est celebre pour la construction de la Grande Muraille de Chine? | Qin Shi Huang, Han Wudi, Tang Taizong | 0
-Quelle reine d'Angleterre a ete executee pendant la Revolution anglaise? | Elisabeth Iere, Mary Stuart, Anne Boleyn | 2
-Quel evenement a conduit a la fondation de l'Empire moghol en Inde au XVIe siecle? | Bataille de Panipat, Arrivee de Vasco de Gama, Construction du Taj Mahal | 1
 Quel empereur romain a ete assassine lors des ides de mars en 44 av. J.-C.? | Auguste, Neron, Julius Caesar | 2
-Quelle celebre bataille de la guerre civile americaine a ete le theatre de la celebre "Charge de la brigade legere"? | Bataille de Gettysburg, Bataille de Fredericksburg, Bataille d'Antietam | 0
 Quel tsar russe a introduit des reformes majeures en 1861, y compris l'emancipation des serfs? | Ivan le Terrible, Alexandre II, Nicolas II | 1
 Quel philosophe grec a fonde l'Academie a Athenes? | Socrate, Aristote, Platon | 2
 Quel evenement a marque le debut de la Revolution francaise en 1789? | Prise de la Bastille, Execution de Louis XVI, Emeutes du pain | 0
